@@ -1,2 +1,2 @@
 # Time-Series-Analysis-in-R
-This contains an assignment done as a part of my Time Series Analysis Course in M. Stat 2nd Year at Indian Statistical Institute, Kolkata.
+This contains an assignment done as a part of my Time Series Analysis Course in M. Stat 2nd Year at Indian Statistical Institute, Kolkata. Both the project report and R codes are provided.
